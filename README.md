@@ -45,12 +45,6 @@ The C-based manager handles the high-level logic:
 
 ---
 
-بما أنك لم تقم بتضمين ملف `install.sh` داخل الحزمة المضغوطة، يجب تحديث قسم التثبيت في ملف **README.md** ليكون دليلاً كاملاً يقوم المستخدم بتنفيذه يدوياً لضمان نقل الملفات وربطها بالنظام بشكل صحيح.
-
-إليك قسم التثبيت المحدث:
-
----
-
 ## Installation Steps (Manual Deployment)
 
 Since this package is a sovereign source-to-binary distribution, follow these manual steps to integrate MCX into your system:
